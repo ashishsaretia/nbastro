@@ -1,0 +1,1 @@
+new Swiper(".logoSlider",{slidesPerView:3,spaceBetween:50,loop:!0,freeMode:!0,autoplay:{delay:5e3,disableOnInteraction:!1},pagination:{el:".swiper-pagination",clickable:!0},breakpoints:{640:{slidesPerView:3,spaceBetween:5},768:{slidesPerView:5,spaceBetween:40},1024:{slidesPerView:7,spaceBetween:20}}});
